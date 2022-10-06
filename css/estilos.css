@@ -1,0 +1,45 @@
+body{
+    background-image: url(/assets/img/fondoimg.jpg);
+    background-repeat: no-repeat;/* para que no se repita la imagen */
+    background-size: cover;/* estira la imagen a la resoulcion*/
+    color:blue;
+}
+#Parrafo{
+    text-align: center;
+}
+#color{
+    color: red;
+}
+#color2{
+    background-color: blue;
+    color: white;
+}
+#Image{
+    background-image:url(/assets/img/fondo.jpg);
+    width: 70px;
+    color:white;
+}
+#size{
+    font-size: 30px;
+}
+#family{
+    font-family: monospace;
+}
+#Style{
+    font-style: italic;
+}
+#weight{
+    font-weight:900;
+}
+#align{
+    text-align: center;
+}
+#decoration{
+    text-decoration: underline blue;
+}
+#shadow{
+    text-shadow: 1px 1px 30px red;
+}
+#border{
+    border: 1px solid #000;
+}
